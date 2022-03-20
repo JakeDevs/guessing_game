@@ -2,6 +2,7 @@ use colored::*;
 use std::cmp::Ordering;
 use std::io;
 //test change
+//test change 2
 fn main() {
     println!("Guess the number!");
 
